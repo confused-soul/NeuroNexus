@@ -14,7 +14,6 @@ The initial steps involve loading the training and testing datasets, and then pe
 - Converting date-time features to numerical values.
 - Creating new features, such as age, month, and year.
 - Using one-hot encoding for categorical features.
-- Calculating distances between latitude and longitude.
 
 ## Exploratory Data Analysis (EDA)
 
