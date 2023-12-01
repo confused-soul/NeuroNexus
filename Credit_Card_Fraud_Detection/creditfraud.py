@@ -23,7 +23,7 @@ credit_data.head()
 # Getting info on the data n the data set
 credit_data.info()
 
-"""Creating a function for Data Prerocessing"""
+"""Creating a function for Data Preprocessing"""
 
 def preprocessing(data) :
   # deleting useless columns
